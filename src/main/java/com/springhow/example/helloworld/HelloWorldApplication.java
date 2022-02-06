@@ -25,7 +25,6 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
     String helloWorld() {
         return "Please visit my website learning-ocean.com";
         return "Visit again!";
-        
     }
 
 }
